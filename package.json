@@ -1,0 +1,20 @@
+{
+  "name": "digital-employee-management-system",
+  "version": "1.0.0",
+  "description": "智能数字员工信息管理系统",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^6.0.0",
+    "lucide-vue-next": "^1.0.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
